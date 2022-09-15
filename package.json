@@ -123,6 +123,7 @@
         "coffeescript": "^2.7.0",
         "dayjs": "^1.11.3",
         "gridjs": "^5.0.2",
+        "gridjs-selection": "^4.0.0",
         "html-minifier": "^4.0.0",
         "implicit-dom-connect": "^0.2.3",
         "livescript": "^1.6.0",
